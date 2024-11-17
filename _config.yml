@@ -19,6 +19,14 @@ plugins:
   - jekyll-seo-tag
   
 authors:
+    scientia:
+      name:           Scientia
+      site:           https://scientia-potentia-est.com/
+      avatar:         /assets/images/avatar1.jpg
+      bio:            "Hi, I am Scientia."
+      email:          scientia.infosec@gmail.com
+      twitter:        https://twitter.com/ScientiaTw
+
     sal:
       name:           Sal
       site:           https://www.wowthemes.net

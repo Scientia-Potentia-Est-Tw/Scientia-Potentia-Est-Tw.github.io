@@ -22,7 +22,7 @@ authors:
     scientia:
       name:           Scientia
       site:           https://scientia-potentia-est.com/
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         assets/images/avatar1.jpg
       bio:            "Hi, 我是Scientia，興趣是跟大家分享讀書心得、學習音樂、繪畫以及語言的建議與成果。"
       email:          scientia.infosec@gmail.com
       twitter:        https://twitter.com/ScientiaTw

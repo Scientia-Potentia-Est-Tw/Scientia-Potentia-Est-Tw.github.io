@@ -10,7 +10,7 @@ tags: [電子書閱讀器]
 <p>在大學時期上課都是使用ipad pro來看上課用的簡報或者相關文獻pdf檔案，但每次看久了眼睛都有些受不了，大三時有一天上Seminar課程過程中突然看見老師在使用一台不會發光的平板，湊近過去一看老師告訴我說這是一種叫做電子書閱讀器的產品，對於眼睛的傷害幾乎跟書本一樣，當我拿起來時更是為之驚訝，如此輕薄的重量卻能夠在上面看原文書或者paper的pdf檔案，那一刻起我就踏進了電子書閱讀器的大門。</p>
 <p>而光是電子書閱讀器就有下至6吋上至13.3吋，考慮到我需要在檔案上做筆記的功能在當時就只有10吋以上的有支援手寫筆，而在爬諸多文章以及Facebook社團的建議下許多人都建議直接上13吋來看pdf是最方便的(反正又不是他們出錢，用講的當然都建議你直上頂規就是好)，雖然13吋的價格是最貴的但我也很慶幸直接就選了這個尺寸，畢竟事後比較起來真的比較方便，這點我從mooInk Pro 1到[mooInk Pro 2][mooInk-Pro-2]，到目前換到[mooInk Pro 2C][mooInk-Pro-2C]上13.3吋都是我的準則。</p>
 ![mooInk-Pro-1](https://scientia-potentia-est.com/wp-content/uploads/2024/11/mooinkPro.jpeg)
-[![mooInk-Pro-2](https://scientia-potentia-est.com/wp-content/uploads/2024/11/MooinkPro2-scaled.jpg])](https://moo.im/a/ckptLM)
+![mooInk-Pro-2](https://scientia-potentia-est.com/wp-content/uploads/2024/11/MooinkPro2-scaled.jpg)[https://moo.im/a/ckptLM]
 ## 為何選擇讀墨mooInk Pro 2C?
 <p>其實市面上13.3吋的機器選擇不多，比較知名的除了讀墨Readmoo之外做得比較好的只有文石Boox，其他有嘗試過生產這尺吋的廠商還有Bigme、大上跟富士通，富士通的比較特殊只能夠用來開啟pdf檔案，而文石、Bigme跟大上就是俗稱的開放式系統，利用Android魔改出來的機器，然而其中只有讀墨的mooInk Pro是封閉式的機器，對於封閉式跟開放式機器的比較可以用Iphone跟Android手機來做比對。</p>
 <p>封閉式機器的優勢就在於系統與機器之間的校正是調整到最佳的，其操作簡易只有官方設計的功能能夠使用，這點讓續航力也比較優秀，開放式機器當然有開放式系統的優點，然而那些優點並不是我最優先考量的，我只希望擁有</p>
@@ -43,7 +43,7 @@ tags: [電子書閱讀器]
 [![paper-present-side-by-side-1](https://scientia-potentia-est.com/wp-content/uploads/2024/11/IMG_0406-scaled.jpg])](https://moo.im/a/8gkqyF)
 [![paper-present-side-by-side-2](https://scientia-potentia-est.com/wp-content/uploads/2024/11/IMG_0408-scaled.jpg])](https://moo.im/a/8gkqyF)
 <p>最後想了解更多關於讀墨的話可以到官方創立的粉絲社團裡體驗氛圍：[Readmoo讀墨×mooInk 線上討論區][Readmoo-Facebook-Page]</p>
-<p>以及如果有興趣下標的話歡迎透過我的AP參考：[https://moo.im/a/8gkqyF][mooInk-Pro-2C]</p>
+<p>以及如果有興趣下標的話歡迎透過我的AP參考：<https://moo.im/a/8gkqyF></p>
 
 [mooInk-Pro-2]: https://moo.im/a/ckptLM
 [mooInk-Pro-2C]: https://moo.im/a/8gkqyF

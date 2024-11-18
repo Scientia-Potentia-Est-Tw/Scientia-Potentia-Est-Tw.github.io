@@ -2,7 +2,7 @@
 layout: post
 title:  "《長銷》讀後心得：內容、定位、行銷、平台，從個人創作到企業經營都要懂的打造經典之道"
 author: scientia
-categories: [ 閱讀心得 ]
+categories: [ 閱讀專區 ]
 image: https://scientia-potentia-est.com/wp-content/uploads/2023/05/Perennial-Seller-Cover.png
 tags: [長銷, 創作者, 閱讀心得]
 ---

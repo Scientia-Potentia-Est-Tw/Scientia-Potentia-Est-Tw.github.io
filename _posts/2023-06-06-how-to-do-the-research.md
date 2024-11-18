@@ -2,7 +2,7 @@
 layout: post
 title:  "《研究生完全求生手冊》讀後心得：研究生必須學會的方法、秘訣與淺規則"
 author: scientia
-categories: [ 閱讀心得]
+categories: [ 閱讀專區 ]
 image: https://scientia-potentia-est.com/wp-content/uploads/2023/06/how-to-do-the-research.png
 tags: [研究方法, 閱讀論文]
 ---

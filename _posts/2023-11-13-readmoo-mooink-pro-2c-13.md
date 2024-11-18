@@ -59,7 +59,7 @@ tags: [電子書閱讀器]
 而作為最大的尺寸當然也可以進行雙列並排顯示的功能，可以在[mooInk Pro 2C][mooInk-Pro-2C]上一次看兩份不同的paper檔案做對比或者是另一邊開啟筆記功能紀錄當下看到的重點。
 
 [![paper-present-side-by-side-1](https://scientia-potentia-est.com/wp-content/uploads/2024/11/IMG_0406-scaled.jpg)](https://moo.im/a/8gkqyF)
-[![paper-present-side-by-side-2(https://scientia-potentia-est.com/wp-content/uploads/2024/11/IMG_0408-scaled.jpg])](https://moo.im/a/8gkqyF)
+[![paper-present-side-by-side-2](https://scientia-potentia-est.com/wp-content/uploads/2024/11/IMG_0408-scaled.jpg)](https://moo.im/a/8gkqyF)
 
 最後想了解更多關於讀墨的話可以到官方創立的粉絲社團裡體驗氛圍：[Readmoo讀墨×mooInk 線上討論區][Readmoo-Facebook-Page]
 
